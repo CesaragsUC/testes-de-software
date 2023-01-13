@@ -1,0 +1,13 @@
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb

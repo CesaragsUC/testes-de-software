@@ -1,0 +1,10 @@
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.AssemblyReference.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb

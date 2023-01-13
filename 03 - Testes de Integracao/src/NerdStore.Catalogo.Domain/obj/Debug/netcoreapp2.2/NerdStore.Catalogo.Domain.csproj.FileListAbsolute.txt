@@ -1,0 +1,13 @@
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.deps.json
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\cesar\Downloads\05- Testes Automatizados\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
